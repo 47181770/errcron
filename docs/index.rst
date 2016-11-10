@@ -20,6 +20,9 @@ Welcome to Errcron's documentation!
    :target: https://codeclimate.com/github/attakei/errcron/coverage
    :alt: Test Coverage
 
+.. image:: https://requires.io/github/attakei/errcron/requirements.svg?branch=master
+   :target: https://requires.io/github/attakei/errcron/requirements/?branch=master
+   :alt: Requirements Status
 
 Contents
 --------
